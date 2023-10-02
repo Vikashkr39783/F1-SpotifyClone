@@ -227,7 +227,6 @@ padding-left: 8px !important;
   color: #cacaca;;
 }
 .playlist-songs table tr :hover {
-  box-shadow: 0 0 3px 1px rgba(240, 240, 235, 0.7);
   cursor: pointer;
   transform: scale(105%);
 }
