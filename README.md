@@ -1,2 +1,2 @@
 # F1-SpotifyClone
-This is a Clone Frontend Page of Spotify Music created with the help of HTML, CSS, BOOTSTRAP.
+This is a Clone Frontend web Page of Spotify Music, Created with the help of HTML, CSS, BOOTSTRAP.
